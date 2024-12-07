@@ -1,4 +1,4 @@
 git checkout -b + tên nhánh mới: sang nhánh mới trên github 
 git add .
 git commit -m ""
-git push -u origin buoi1
+git push -u origin + tên nhánh mới
